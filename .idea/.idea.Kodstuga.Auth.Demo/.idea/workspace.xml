@@ -4,6 +4,9 @@
     <projectFile profileName="http">Backend.MinimalApi/Backend.MinimalApi.csproj</projectFile>
     <projectFile profileName="https">Backend.MinimalApi/Backend.MinimalApi.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e30b465a-1f7a-4aa8-a88a-b9d14f37327f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +27,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Backend.MinimalApi: http.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740488612431</updated>
-      <workItem from="1740488614107" duration="370000" />
+      <workItem from="1740488614107" duration="753000" />
     </task>
     <servers />
   </component>
